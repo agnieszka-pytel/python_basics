@@ -1,0 +1,5 @@
+Jan, Kowalski, 2
+Agnieszka, Pytel, 4
+Jan, Nowak, 1
+Adam, Piekarski, 5
+Wojciech, Michalski, 1
